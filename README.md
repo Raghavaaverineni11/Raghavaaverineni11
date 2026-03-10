@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Raghavaaverineni11
-    I am a Full-Stack Developer with expertise in C#,Java,.NET,Spring, and Spring Boot for backend development.
+    I am a Software Developer with expertise in C#,Java,.NET,Spring, and Spring Boot for backend development and Skilled In API Integrations.
     I have a Master’s in Computer and Information Systems and a Bachelor’s in Information Technology, equipping me with strong technical and analytical skills.
     On the frontend, I develop applications using HTML, CSS, JavaScript, and React to create seamless user experiences.
      Additionally, I specialize in data management and analytics, working with SQL, Power BI, and Tableau to extract meaningful insights.
